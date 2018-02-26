@@ -1,5 +1,6 @@
 
 public class hola {
 	int uno;
-int dos;
+	int dos;
+	int tres;
 }
